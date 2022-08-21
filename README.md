@@ -23,6 +23,7 @@
 ##  🚧 &nbsp;Meus Projetos:
 
 -[Um controle de contatos com níveis de acesso para administradores e usuários comuns. Usei o protocolo SMTP para reedefinição de senha do usuário](https://github.com/Gisele7/Controle-De-Contatos---)<br/>
-[Demonstração do Projeto](https://www.linkedin.com/posts/gisele-da-silva-cidral-6763a319b_estou-desenvolvendo-um-projeto-acompanhando-activity-6959528152746340352-gT9i?utm_source=linkedin_share&utm_medium=ios_app)<br/>
--[Projeto da Faculdade](https://github.com/Gisele7/Locadoraestudos) 
-
+[Demonstração do Projeto [CONTROLE DE CONTATOS]](https://www.linkedin.com/posts/gisele-da-silva-cidral-6763a319b_estou-desenvolvendo-um-projeto-acompanhando-activity-6959528152746340352-gT9i?utm_source=linkedin_share&utm_medium=ios_app)<br/>
+-[Projeto da Faculdade](https://github.com/Gisele7/Locadoraestudos)<br/>
+-[Conceitos básicos do MVC](https://github.com/Gisele7/ConceitosMVC)<br/>
+[Demonstração do Projeto [CONCEITOS MVC]](https://www.linkedin.com/posts/gisele-da-silva-cidral-6763a319b_ol%C3%A1-pessoal-hoje-finalizei-mais-um-projeto-activity-6966940828577488896-k5gM?utm_source=linkedin_share&utm_medium=member_desktop_web)
