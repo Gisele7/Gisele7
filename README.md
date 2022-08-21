@@ -2,6 +2,14 @@
 # Olá, eu sou a Gisele Cidral. 👋
 ### Atualmente sou estagiária de desenvolvimento .NET na empresa INB (Indústrias Nucleares do Brasil). Curso 6° perído de Sistemas de Informação na AEDB. 
 
+
+
+
+📃[Veja meu currículo](https://github.com/Gisele7/Gisele7.github.io)
+
+
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisele-da-silva-cidral-6763a319b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gicidral7/)
 
