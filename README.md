@@ -5,7 +5,7 @@
 
 
 
-📃[Veja meu currículo](https://github.com/Gisele7/Gisele7.github.io)
+📃[Veja meu currículo](https://Gisele7.github.io)
 
 
 
