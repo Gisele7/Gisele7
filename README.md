@@ -1,6 +1,6 @@
 
 # Olá, eu sou a Gisele Cidral. 👋
-### Atualmente sou estagiária de desenvolvimento .NET na empresa INB (Indústrias Nucleares do Brasil). Curso 8° perído de Sistemas de Informação na AEDB. 
+### Atualmente sou estagiária de desenvolvimento .NET na empresa INB (Indústrias Nucleares do Brasil). Em meu estágio utilizo várias tecnologias, como: C#, .NET Core, SQL SERVER, REACT JS. Curso o 8° perído de Sistemas de Informação na AEDB. 
 
 
 
