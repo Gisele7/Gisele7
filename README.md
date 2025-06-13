@@ -1,6 +1,6 @@
 
 # Olá, eu sou a Gisele Cidral. 👋
-### Atualmente sou desenvolvedora de software apaixonada por tecnologia e inovação. Com 22 anos de idade, já possuo uma graduação em Sistemas de Informação, o que me proporcionou uma base sólida em programação e desenvolvimento de software. Atualmente, estou empregada na I3Automations, onde tenho a oportunidade de aplicar meus conhecimentos e habilidades para criar soluções inovadoras e eficientes. Estou sempre em busca de aprender e me aprimorar, tanto nas tecnologias que já domino quanto em novas ferramentas e metodologias. Meu objetivo é contribuir para o avanço da área de tecnologia e desenvolvimento de software, entregando produtos de alta qualidade e impacto positivo.
+### Atualmente sou desenvolvedora de software apaixonada por tecnologia e inovação. Com 23 anos de idade, já possuo uma graduação em Sistemas de Informação, o que me proporcionou uma base sólida em programação e desenvolvimento de software. Atualmente, estou empregada na I3Automations, onde tenho a oportunidade de aplicar meus conhecimentos e habilidades para criar soluções inovadoras e eficientes. Estou sempre em busca de aprender e me aprimorar, tanto nas tecnologias que já domino quanto em novas ferramentas e metodologias. Meu objetivo é contribuir para o avanço da área de tecnologia e desenvolvimento de software, entregando produtos de alta qualidade e impacto positivo.
 
 
 
